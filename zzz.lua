@@ -1,15 +1,5 @@
-🌟
-adapter.add {
-  漫画名字 = "Mountain",
-  漫画封面 = "https://img.picgo.net/2024/11/21/IMG_20241121_020754_264761b3f71de151bf4.jpg",
-  动漫评分 = "评价分数 [未评价]",
-  漫画类型 = "DOUJINSHI",
-  漫画语言页数 = "EZ  0P",
-  漫画发布时间 = "2024-11-21 1:21",
-  动漫作者名字 = "Serphie",
-}
-🌟
----------------------------------------
-🌟
-print("vvvvvv")
-🌟
+运行代码
+
+=IAJwD47AxRTymPkkdtC0xAysqMR4W2ZY4y+0cLRAoypcFMKyPPWyS438LQtaWcLPGeAIFcPWJ8YRClDyVYW93HzgdUCI5F/mVe4GWBqhuGbd5IKWFU+nfyBZmEidUpu7oVqQeDGFlRqkZGxNVdxwLLMWhKX8pIG2KpnINnUjPO8bS4NnGQXBirgnn0HfuhGPucpiYqOhZE8SxxFIa6h/Nc9jMKcNJW3vRh/k6UfqrdhzD/lbVMo/I+lDu+zbMYVkUiqizbVaP1VNpWjHk5bwX+18ET076xJ6oO2RdgctHzgc+SvAoZ9/UJ1O4Cc1/YGb9iArOJEyuo2K7Cd1HpwRZHIV3if4TpXJftTvLKG/XK2X5tmH1Qd1XcmsScXN2Ozhc8jHC3JvYSwlg2MDxwzSXJ1WAOMHVlkAIrilw/SD3bfouVHorVsQpyN8UK+sP1VQVusVNKU4jRgLo+IPfgvffDEXorzzESSKHHh2wi3AXAVLAmGIvspAfWwcqSWT8tepDFZqGlTjHTAQLpW74YRCPTzEwylJAB07OLYBdhjIMH4Il5MWLPj04KNWhxHqKZ/XWrkZqRkQwNkajmAZVgN20qXEp3sWV+jhdU4JykK3ozJkV0LI7aD1oXPGCzA3twHBJMTNnBoB2QGA+TjDem6PCP0D2BZt3ZjV4GrBYq/jF+0sy1h2rohKNphRFh2rXQ9gjARLDJYjyf9G53i8VYhVA/gIAt2JJpKHEA86lIQmm0I430zv5STYc9b+y5cjK4tIzP3u6zNc7ie/Pp3V36e0KJuR6PKBOQpGXRsfSzE/mo724dSkEUC/nzyatwA2HWisPtKH2JKsFQFXTylEz1iNHafH9eHlKWAtTSXYZHWEF8hczzBjWrCFkEuj5ZAZ8lLCEgfVLtpPmz7+mySrBAZcZWRUQkqVcZ1G3RmpSBoRsOxTkOuO7mQDtoDAgCytCn5TuASEmSsCPkevyOpatzJDPjSaLoEOxSfR86MH0vBlRW9BuF9jAANKx9wc6PrWm6x76ZdzCQ+bTcUyKRI/qIndsFToSJ/nnFoIs2yhNj6Wy3xfDT2ovcX9tJHB3oYV6Hh2pRob8VYtCBf/29VyGAsEJuFL++NuUgK8n2usDRfOD6XtT6scAYCOnjs8+Lybz4a0XhK7wuGpj9yWlSMitT3pZxqXe6aAheVqH2VubrcNWU6ClLzeyjpZz2o8Im7L932jnCf3dNbuyUvtCxNnp+cYQUwdvfdgBMzjTekQtXK+hQgUXO3K5qkKBS5/B7MqOijaXlNkNFBgmcJHpZUICzYWRpwWnmq/SZ7o0TNMaX6AByDK/xsQUu8+3eDI7u+A6kOgu6FNXA+9B5ByMI9hdv18nKhcoRF9VKsyHGOLX2EXA/sXqJME3eWVRpQJ8qMz3gAoLX2No3K3dJCsOukrKfkB9GUZFt2G4KkTTfvWA6spCc8aZWlA59sJfd1gYATjfmKOStTjCDkwBrRvvDFkTSaYHuDz9R8YqWw/n71rR5SUq32MQ19pInciH4im3ZKS3YYCCIyJhY09PhU7ixDjYdsh3JDtJ5bzecKxE7Yj/bNvLpGb1LOwL84u0ulWBNDsdPq1gXgBkypUXCym8EtUIVbqu2I2JCc21AIoohQM6G74jR9/alX5sR+aQlKLvZxk2diCx/kQ9gWuX4YzARgTnlwLxsXlCCe9J349cBlw421wS5V3sI7lBBG+whbygO1JDpoCXtOxpz47Qh7PEzC6TY4o1rUECCnBpa6ZXZWmzq5Oz/jgzu4cQ==
+
+结束代码
